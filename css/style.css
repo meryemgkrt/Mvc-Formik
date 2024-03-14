@@ -1,0 +1,22 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgb(90, 89, 89);
+  color: rgb(255, 248, 248);
+}
+
+/* LİSTE SAYFASI */
+.container {
+  background: black;
+  width: 80vh;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 20px;
+  border-radius: 6px;
+}/*# sourceMappingURL=style.css.map */

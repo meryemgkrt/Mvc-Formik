@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "2f015c3f-16d6-4aed-a7a3-9577bca7d37b",
+      "date": "2024-03-14T13:11:38.195Z",
+      "title": "React çalış",
+      "user": "Ahmet",
+      "text": "iş bul"
+    },
+    {
+      "id": "cd1bc83a-85ea-479c-9e01-99a11917a081",
+      "date": "2024-03-14T13:39:36.183Z",
+      "title": "Form",
+      "user": "Meryem",
+      "text": "Forma çalış form yap"
+    },
+    {
+      "id": "89fc5e53-a776-4bbd-bc2b-8b137190c4d1",
+      "date": "2024-03-14T17:35:30.568Z",
+      "title": "React Öğren",
+      "user": "Meryem",
+      "text": "Yeni iş bul"
+    }
+  ]
+}
